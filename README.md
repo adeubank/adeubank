@@ -1,12 +1,16 @@
 ### Hi there 👋
 
-Welcome to my profile. Currently, I keep the lights on as CTO at [AdLibertas](www.adlibertas.com/) by dabbling in big data. I am most passionate about game design and storytelling. If you haven't figured it out yet, blockchain changes everything.
+Welcome to my profile. Currently, I keep the lights on at [AdLibertas](www.adlibertas.com/) as CTO and by dabbling in big data. I am most passionate about game design and storytelling. If you haven't figured it out yet, blockchain changes everything.
+
+Working on something huge, and I hope you'll come along.
 
 ✨ Menu ✨
 
 - [My Personal (but mostly defunct) Website alleneubank.com](https://alleneubank.com)
 - [Medium](https://allendefibank.medium.com)
 - [Twitter](https://twitter.com/allendefibank)
+
+And, remember, to always read the source.
 
 <!--
 If
